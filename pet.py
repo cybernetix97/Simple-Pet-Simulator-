@@ -107,7 +107,6 @@ while quit == False :
             del pet
             pet = Cat(input("Rename your cat "))
 
-
     elif choice == "quit":
         quit = True
 
